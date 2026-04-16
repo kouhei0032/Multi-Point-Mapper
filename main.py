@@ -1,6 +1,6 @@
 import streamlit as st
 
-# 1. ページの定義（ファイル名が正確に一致しているか確認してください）
+# 1. ページの定義
 login_page = st.Page("pages/login.py", title="login")
 map_page = st.Page("pages/map_app.py", title="map_app")
 admin_page = st.Page("pages/dashboard.py", title="dashboard")
