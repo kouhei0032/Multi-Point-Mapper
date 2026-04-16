@@ -1,7 +1,7 @@
 import streamlit as st
 import time
 
-# ページの設定
+# ページの設定 コメント化
 # st.set_page_config(page_title="Multi-Point-Mapper", layout="centered")
 
 st.title("Multi-Point-Mapper")
