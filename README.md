@@ -12,7 +12,8 @@
 
 ## デモ (Demo)
 
-<img width="423" height="207" alt="image" src="https://github.com/user-attachments/assets/5570793c-f89f-4102-9f58-145b443293e8" />
+<img width="646" height="334" alt="image" src="https://github.com/user-attachments/assets/c2878b6c-772b-41c4-8cd3-9cd7ef0b7b61" />
+
 
 
 ## セットアップ (Setup)
