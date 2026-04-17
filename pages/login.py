@@ -1,7 +1,8 @@
 import streamlit as st
 import time
+from datetime import datetime
 
-# ページの設定はコメント化
+# ページの設定
 # st.set_page_config(page_title="Multi-Point-Mapper", layout="centered")
 
 st.title("Multi-Point-Mapper")
@@ -28,6 +29,14 @@ if st.button("Login"):
 
     # 4. 認証成功
     else:
+        # ログを記録
+        try:
+            now = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+            with open("./access_log.txt", "a", encoding="utf-8") as f:
+                f.write(f"{now},{user_id},login\n")
+        except Exception as e:
+            st.error(f"ログの書き込みに失敗しました: {e}")
+
         st.session_state.user_id = user_id
         st.success("Authenticated! Launching the map system...")
         time.sleep(1.2)
