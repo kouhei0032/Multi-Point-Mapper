@@ -9,6 +9,7 @@
 
 ## デモ (Demo)
 
+<img width="649" height="320" alt="image" src="https://github.com/user-attachments/assets/65a52f34-a8bb-4dd9-953a-610ad3a6f48c" />
 
 
 ## セットアップ (Setup)
