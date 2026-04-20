@@ -13,6 +13,7 @@
 ## デモ (Demo)
 
 <img width="646" height="334" alt="image" src="https://github.com/user-attachments/assets/c2878b6c-772b-41c4-8cd3-9cd7ef0b7b61" />
+<img width="421" height="256" alt="screenshot_mpm2" src="https://github.com/user-attachments/assets/04fb19dd-bc1d-43df-aee2-c78bfe35aa61" />
 
 
 
