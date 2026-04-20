@@ -13,8 +13,7 @@
 ## デモ (Demo)
 
 <img width="646" height="334" alt="image" src="https://github.com/user-attachments/assets/c2878b6c-772b-41c4-8cd3-9cd7ef0b7b61" />
-<img width="421" height="256" alt="screenshot_mpm2" src="https://github.com/user-attachments/assets/04fb19dd-bc1d-43df-aee2-c78bfe35aa61" />
-
+<img width="628" height="595" alt="screenshot_mpm2" src="https://github.com/user-attachments/assets/52b65127-76d2-4ab3-b0bb-54d576a972d4" />
 
 
 ## セットアップ (Setup)
