@@ -23,7 +23,8 @@
 
 <img width="646" height="334" alt="image" src="https://github.com/user-attachments/assets/c2878b6c-772b-41c4-8cd3-9cd7ef0b7b61" />
 <img width="628" height="595" alt="screenshot_mpm2" src="https://github.com/user-attachments/assets/52b65127-76d2-4ab3-b0bb-54d576a972d4" />
-<img width="1040" height="599" alt="image" src="https://github.com/user-attachments/assets/450908c4-e739-4e41-877a-1e12ca38fabb" />
+<img width="1208" height="653" alt="image" src="https://github.com/user-attachments/assets/2a03923d-47a9-44e1-aeb1-d83bb6b41158" />
+
 
 ### 動作要件 (Prerequisites)
 * Python3.13
