@@ -32,6 +32,7 @@
 必要なライブラリのインストール
 ```bash
    pip install streamlit folium streamlit-folium
+```
 
 ### 使用技術 (Built With)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
