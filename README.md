@@ -1,5 +1,13 @@
 # プロジェクト名 (Multi-Point-Mapper）
 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
+![Folium](https://img.shields.io/badge/Folium-77B829?style=for-the-badge&logo=Leaflet&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![OpenStreetMap](https://img.shields.io/badge/OpenStreetMap-%237EBC6F.svg?style=for-the-badge&logo=OpenStreetMap&logoColor=white)
+![GSI API](https://img.shields.io/badge/Data-GSI_Japan-green?style=for-the-badge)
+![OSRM](https://img.shields.io/badge/Routing-OSRM-lightgrey?style=for-the-badge)
+
 お客様名と住所を入力することで、複数地点を地図にマッピングするシステムです。
 経路の算出をすることも可能です。
 
@@ -34,15 +42,6 @@
 ```bash
    pip install streamlit folium streamlit-folium
 ```
-
-### 使用技術 (Built With)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
-![Folium](https://img.shields.io/badge/Folium-77B829?style=for-the-badge&logo=Leaflet&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![OpenStreetMap](https://img.shields.io/badge/OpenStreetMap-%237EBC6F.svg?style=for-the-badge&logo=OpenStreetMap&logoColor=white)
-![GSI API](https://img.shields.io/badge/Data-GSI_Japan-green?style=for-the-badge)
-![OSRM](https://img.shields.io/badge/Routing-OSRM-lightgrey?style=for-the-badge)
 
 ⚠️ ご利用にあたっての注意点
 本アプリはルート検索にOSRMのデモサーバー、ジオコーディングに国土地理院APIを使用しています。これらは共有のインフラであるため、
