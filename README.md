@@ -40,6 +40,9 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
 ![Folium](https://img.shields.io/badge/Folium-77B829?style=for-the-badge&logo=Leaflet&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![GSI API](https://img.shields.io/badge/Data-GSI_Japan-green)
+![OSRM](https://img.shields.io/badge/Routing-OSRM-lightgrey)
+![OpenStreetMap](https://img.shields.io/badge/Map_Data-OpenStreetMap-7EBC6F?style=flat-square&logo=openstreetmap&logoColor=white)
 
 ⚠️ ご利用にあたっての注意点
 本アプリはルート検索にOSRMのデモサーバー、ジオコーディングに国土地理院APIを使用しています。これらは共有のインフラであるため、
