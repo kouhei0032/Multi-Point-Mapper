@@ -25,16 +25,16 @@
 <img width="628" height="595" alt="screenshot_mpm2" src="https://github.com/user-attachments/assets/52b65127-76d2-4ab3-b0bb-54d576a972d4" />
 <img width="1040" height="599" alt="image" src="https://github.com/user-attachments/assets/450908c4-e739-4e41-877a-1e12ca38fabb" />
 
-
-## セットアップ (Setup)
-
-プロジェクトをローカル環境で動かすための手順です。
-
 ### 動作要件 (Prerequisites)
-
 * Python3.13
 
 ### インストール (Installation)
 必要なライブラリのインストール
 ```bash
    pip install streamlit folium streamlit-folium
+
+### 使用技術 (Built With)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
+![Folium](https://img.shields.io/badge/Folium-77B829?style=for-the-badge&logo=Leaflet&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
