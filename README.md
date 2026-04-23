@@ -5,13 +5,14 @@
 ![Folium](https://img.shields.io/badge/Folium-77B829?style=for-the-badge&logo=Leaflet&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![OpenStreetMap](https://img.shields.io/badge/OpenStreetMap-%237EBC6F.svg?style=for-the-badge&logo=OpenStreetMap&logoColor=white)
+
 ![GSI API](https://img.shields.io/badge/Data-GSI_Japan-green?style=for-the-badge)
 ![OSRM](https://img.shields.io/badge/Routing-OSRM-lightgrey?style=for-the-badge)
 
 お客様名と住所を入力することで、複数地点を地図にマッピングするシステムです。
 経路の算出をすることも可能です。
 
-## 🚀 App Link
+## アプリリンク（App Link）
 このアプリは以下のURLから利用できます。
 
 [![Open in Streamlit](https://img.shields.io/badge/Open%20in%20Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://multi-point-mapper.streamlit.app/)
