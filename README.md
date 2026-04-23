@@ -13,7 +13,7 @@
 
 ## 🚀 App Link
 このアプリは以下のURLから利用できます。
-[Multi-Point-Mapper を開く](https://multi-point-mapper.streamlit.app/)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://multi-point-mapper.streamlit.app/)
 
 # 背景　(Background)
 営業現場や配送業務において、複数の訪問先を効率的に回るためのルート構築は個人の経験に頼る部分が多く、
